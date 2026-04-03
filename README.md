@@ -1,3 +1,5 @@
+# E-Commerce Data (Python)
+
 **Background:** You are working for an online retailer. Currently, the retailer sells over 4,000 unique products. To take inventory of the items, your manager has asked you whether you can group the products into a small number of categories. The categories should be similar in terms of price and quantity sold and any other characteristics you can extract from the data.
 
 **Purpose:** Objectives of the analysis included:
