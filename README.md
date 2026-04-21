@@ -11,4 +11,4 @@
 **The Data:** The dataset used in the project contains orders & transactions made by customers in different countries from December 2010 to December 2011. The orders pertain to a UK-based company & online retailer that mainly sells unique all-occasion gifts. Many of its customers are wholesalers. Each row consists of a transaction (or invoice). There are eight main parameters for each transaction including the invoice number, the stock code of the relevant product, a description of the product, the quantity ordered, the date of the invoice, the price of one unit of the product (in pounds), a customer identifier, & the country in which the customer resides.
 
 The dataset for this project was not uploaded to GitHub because it was too large (~44 MB).
-Machine learning was not applied in this project, but it could be.
+The project was done in October-November, 2024. Machine learning was not applied in this project, but it could be.
